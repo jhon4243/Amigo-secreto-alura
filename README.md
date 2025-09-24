@@ -1,1 +1,3 @@
-# Amigo-secreto-alura
+<h1>sistema de registro</h1>
+
+estado del proyecto en construccion.
